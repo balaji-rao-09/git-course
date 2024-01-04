@@ -4,7 +4,7 @@ change the users
 
 manage the database
 
-closing the database connection
+closing the mysql database connection
 
 
 change 1
